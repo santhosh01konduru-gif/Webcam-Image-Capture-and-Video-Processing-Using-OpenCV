@@ -170,11 +170,7 @@ for i in range(50):
 
 cap.release()
 ~~~
-~~~
-~~~
-<img width="362" height="552" alt="image" src="https://github.com/user-attachments/assets/34f75992-be1c-49f8-bc90-d2183e5e972a" />
-~~~
-~~~
+<img width="365" height="553" alt="image" src="https://github.com/user-attachments/assets/0944f8a6-b493-49e5-8e7f-5e371a8568ac" />
 ---
 
 ## Result
