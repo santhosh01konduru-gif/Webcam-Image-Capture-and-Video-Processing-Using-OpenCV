@@ -170,6 +170,6 @@ cap.release()
 ~~~
 <img width="365" height="553" alt="image" src="https://github.com/user-attachments/assets/0944f8a6-b493-49e5-8e7f-5e371a8568ac" />
 
-## Result
+### Result
 
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
