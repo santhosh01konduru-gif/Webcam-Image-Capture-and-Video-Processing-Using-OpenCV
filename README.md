@@ -165,8 +165,7 @@ for i in range(50):
     plt.show()
 
     time.sleep(0.05)
-
-cap.release()
+ cap.release()
 ~~~
 <img width="365" height="553" alt="image" src="https://github.com/user-attachments/assets/0944f8a6-b493-49e5-8e7f-5e371a8568ac" />
 
