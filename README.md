@@ -48,7 +48,6 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ### Register No:
 212225240074
 
----
 
 ## Output
 
@@ -137,8 +136,7 @@ for i in range(50):
 cap.release()
 ~~~
 <img width="577" height="372" alt="image" src="https://github.com/user-attachments/assets/3c591f7b-4d52-448d-abb0-67b16d09a6ec" />
-~~~
-~~~
+
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
 ~~~
@@ -171,7 +169,6 @@ for i in range(50):
 cap.release()
 ~~~
 <img width="365" height="553" alt="image" src="https://github.com/user-attachments/assets/0944f8a6-b493-49e5-8e7f-5e371a8568ac" />
----
 
 ## Result
 
