@@ -135,6 +135,7 @@ for i in range(50):
 
 cap.release()
 ~~~
+
 <img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
 
 ### iv) Rotate and display the video
@@ -167,6 +168,7 @@ for i in range(50):
     time.sleep(0.05)
  cap.release()
 ~~~
+
 <img width="306" height="402" alt="image" src="https://github.com/user-attachments/assets/85e791d3-4b60-4bac-9adb-e5bb573fad03" />
 
 ### Result
