@@ -168,7 +168,7 @@ for i in range(50):
 
     time.sleep(0.05)
  cap.release()
-~~~
+
 
 <img width="306" height="402" alt="image" src="https://github.com/user-attachments/assets/85e791d3-4b60-4bac-9adb-e5bb573fad03" />
 ~~~
