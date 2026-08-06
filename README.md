@@ -70,7 +70,7 @@ if ret:
 
 cap.release()
 ~~~
-<img width="562" height="372" alt="image" src="https://github.com/user-attachments/assets/d5e37c03-cdcd-40c2-9da8-6ad12ff76e97" />
+<img width="545" height="433" alt="image" src="https://github.com/user-attachments/assets/86f5935b-0e2d-48ae-94ae-c9da165f8d0f" />
 
 
 ### ii) Display the video
@@ -101,7 +101,7 @@ for i in range(50):
 cap.release()
 
 ~~~
-<img width="562" height="372" alt="image" src="https://github.com/user-attachments/assets/d5e37c03-cdcd-40c2-9da8-6ad12ff76e97" />
+<img width="551" height="410" alt="image" src="https://github.com/user-attachments/assets/6c0298ed-6b70-444c-acfe-46ad7ce8c009" />
 ~~~
 ~~~
 ### iii) Display the video by resizing the window
@@ -135,7 +135,7 @@ for i in range(50):
 
 cap.release()
 ~~~
-<img width="577" height="372" alt="image" src="https://github.com/user-attachments/assets/3c591f7b-4d52-448d-abb0-67b16d09a6ec" />
+<img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
@@ -167,7 +167,7 @@ for i in range(50):
     time.sleep(0.05)
  cap.release()
 ~~~
-<img width="365" height="553" alt="image" src="https://github.com/user-attachments/assets/0944f8a6-b493-49e5-8e7f-5e371a8568ac" />
+<img width="306" height="402" alt="image" src="https://github.com/user-attachments/assets/85e791d3-4b60-4bac-9adb-e5bb573fad03" />
 
 ### Result
 
