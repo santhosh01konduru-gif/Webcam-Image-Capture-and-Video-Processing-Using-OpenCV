@@ -51,7 +51,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ## Output
 
-### i) Write the frame as JPG image
+## i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
 ~~~
 import cv2
@@ -73,7 +73,7 @@ cap.release()
 <img width="545" height="433" alt="image" src="https://github.com/user-attachments/assets/86f5935b-0e2d-48ae-94ae-c9da165f8d0f" />
 
 
-### ii) Display the video
+## ii) Display the video
 Live webcam video is displayed
 ~~~
 import cv2
@@ -139,7 +139,7 @@ cap.release()
 <img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
 ~~~
 ~~~
-### iv) Rotate and display the video
+## iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
 ~~~
 import cv2
@@ -173,6 +173,6 @@ for i in range(50):
 <img width="306" height="402" alt="image" src="https://github.com/user-attachments/assets/85e791d3-4b60-4bac-9adb-e5bb573fad03" />
 ~~~
 ~~~
-### Result
+## Result
 
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
