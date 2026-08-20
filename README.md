@@ -103,7 +103,6 @@ cap.release()
 ~~~
 <img width="551" height="410" alt="image" src="https://github.com/user-attachments/assets/6c0298ed-6b70-444c-acfe-46ad7ce8c009" />
 ~~~
-~~~
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
 ~~~
@@ -138,7 +137,7 @@ cap.release()
 
 <img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
 ~~~
-~~~
+
 ## iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
 ~~~
