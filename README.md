@@ -102,7 +102,7 @@ cap.release()
 
 ~~~
 <img width="551" height="410" alt="image" src="https://github.com/user-attachments/assets/6c0298ed-6b70-444c-acfe-46ad7ce8c009" />
-~~~
+
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
 ~~~
@@ -167,10 +167,9 @@ for i in range(50):
 
     time.sleep(0.05)
  cap.release()
-
+~~~
 
 <img width="306" height="402" alt="image" src="https://github.com/user-attachments/assets/85e791d3-4b60-4bac-9adb-e5bb573fad03" />
-~~~
 
 ## Result
 
