@@ -134,9 +134,8 @@ for i in range(50):
 
 cap.release()
 
-
-<img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
 ~~~
+<img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
 
 ## iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
