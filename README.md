@@ -1,5 +1,6 @@
+# NAME: konduru santhosh
+# REG.No: 212225240074
 # Image Capture and Video Processing Using OpenCV
-
 ---
 
 ## Aim
@@ -42,12 +43,6 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ## 💻 Program
 
-### Developed By:
-Name:konduru santhosh
-
-Register No:
-212225240074
-
 
 ## Output
 
@@ -70,7 +65,8 @@ if ret:
 
 cap.release()
 ~~~
-<img width="545" height="433" alt="image" src="https://github.com/user-attachments/assets/86f5935b-0e2d-48ae-94ae-c9da165f8d0f" />
+<img width="542" height="427" alt="image" src="https://github.com/user-attachments/assets/bfb35ec0-2c9c-4375-902b-f2384e4683a1" />
+
 
 
 ## ii) Display the video
@@ -101,7 +97,7 @@ for i in range(50):
 cap.release()
 
 ~~~
-<img width="551" height="410" alt="image" src="https://github.com/user-attachments/assets/6c0298ed-6b70-444c-acfe-46ad7ce8c009" />
+<img width="541" height="412" alt="image" src="https://github.com/user-attachments/assets/1dcca2b4-07e4-4f16-9168-ea67c5b573f8" />
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
@@ -135,7 +131,7 @@ for i in range(50):
 cap.release()
 
 ~~~
-<img width="277" height="409" alt="image" src="https://github.com/user-attachments/assets/11034d05-f53e-4a4b-975a-3b80bfee7764" />
+<img width="278" height="418" alt="image" src="https://github.com/user-attachments/assets/9aaf2e8d-2dcc-426f-b70b-50fdb1b95813" />
 
 ## iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
@@ -168,7 +164,7 @@ for i in range(50):
  cap.release()
 ~~~
 
-<img width="306" height="402" alt="image" src="https://github.com/user-attachments/assets/85e791d3-4b60-4bac-9adb-e5bb573fad03" />
+<img width="318" height="421" alt="image" src="https://github.com/user-attachments/assets/77c0012b-9d98-4359-9fff-13593c4839f1" />
 
 ## Result
 
